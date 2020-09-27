@@ -1,3 +1,4 @@
+"LOCAL"
 # conflict
 lignes 1
 lignes 2
