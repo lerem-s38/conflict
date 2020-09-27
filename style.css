@@ -1,0 +1,18 @@
+
+body{
+    background-color: lightslategray;
+}
+header{
+    color: red;
+}
+
+p{
+    color:blue;
+    width: 50px;
+}
+
+footer{
+    display: inline;
+    text-align: center;
+    color: coral;
+}
